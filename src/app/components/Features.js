@@ -11,28 +11,28 @@ export default function Features() {
       title: "Autism & Neurodiversity",
       description:
         "Specialized toys and tools designed to support sensory needs and development.",
-      image: "/feature-holding.jpg",
+      image: "/assets/feature-holding.jpg",
       link: "/autism-and-neurodiversity",
     },
     {
       title: "Communication",
       description:
         "Tools and toys that help develop communication skills and expression.",
-      image: "/feature-holding.jpg",
+      image: "/assets/feature-holding.jpg",
       link: "/communication",
     },
     {
       title: "Sensory Tools",
       description:
         "Carefully curated sensory tools for various developmental needs.",
-      image: "/feature-holding.jpg",
+      image: "/assets/feature-holding.jpg",
       link: "/sensory-tools",
     },
     {
       title: "Visual Aid",
       description:
         "Visual supports and learning aids for better understanding.",
-      image: "/feature-holding.jpg",
+      image: "/assets/feature-holding.jpg",
       link: "/visual-aids",
     },
   ];
