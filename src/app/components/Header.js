@@ -17,7 +17,7 @@ export default function Header() {
             <div className="flex items-center gap-2">
               <Image
                 className="h-24 w-auto"
-                src="/logo.avif"
+                src="/logo.png"
                 alt="Panda Puzzle"
                 width={96}
                 height={96}
