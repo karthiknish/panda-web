@@ -10,6 +10,16 @@ import Products from "./components/Products";
 import SupportTools from "./components/SupportTools";
 import Testimonials from "./components/Testimonials";
 
+const images = {
+  logo: "/assets/logo.png",
+  dummyLogo: "/assets/dummy-logo.webp",
+  teddyBears: "/assets/teddy_bears.webp",
+  kid: "/assets/kid.png",
+  product: "/assets/product.png",
+  family: "/assets/family.jpg",
+  testimonial: "/assets/testimonial.jpg",
+};
+
 export default function Home() {
   return (
     <main>
