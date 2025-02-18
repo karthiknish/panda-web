@@ -19,7 +19,7 @@ export default function SupportTools() {
           >
             <div className="relative w-full h-[400px]">
               <Image
-                src="https://placehold.co/400x400"
+                src="/assets/family.jpg"
                 alt="Family cooking together"
                 fill
                 className="rounded-2xl object-cover z-10"
