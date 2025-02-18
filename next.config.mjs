@@ -1,9 +1,6 @@
 /** @type {import('next').NextConfig} */
 
 const nextConfig = {
-  experimental: {
-    appDir: true,
-  },
   images: {
     remotePatterns: [
       {
@@ -11,6 +8,7 @@ const nextConfig = {
         hostname: "**",
       },
     ],
+    domains: ["placehold.co"],
   },
 };
 
