@@ -15,7 +15,7 @@ export default function Testimonials() {
     },
     {
       quote:
-        "As a teacher, I love how these educational tools make learning fun and engaging for all my students.",
+        "I&apos;ve found these educational tools make learning fun and engaging for all my students.",
       author: "James P.",
       role: "Primary School Teacher",
       image: "/assets/testimonial.jpg",
