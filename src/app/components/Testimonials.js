@@ -11,41 +11,41 @@ export default function Testimonials() {
         "The sensory toys from Panda Puzzle have helped my son feel more calm and focused during playtime.",
       author: "Rachel W.",
       role: "Parent of 2",
-      image: "/testimonial.jpg",
+      image: "https://placehold.co/128x128",
     },
     {
       quote:
         "As a teacher, I love how these educational tools make learning fun and engaging for all my students.",
       author: "James P.",
       role: "Primary School Teacher",
-      image: "/testimonial.jpg",
+      image: "https://placehold.co/128x128",
     },
     {
       quote:
         "The weighted blankets and sensory products have been game-changers for my therapy practice.",
       author: "Dr. Sarah Chen",
       role: "Pediatric Therapist",
-      image: "/testimonial.jpg",
+      image: "https://placehold.co/128x128",
     },
     {
       quote:
         "Finally found toys that support both learning and emotional development. My daughter loves them!",
       author: "Maria G.",
       role: "Mother",
-      image: "/testimonial.jpg",
+      image: "https://placehold.co/128x128",
     },
     {
       quote:
         "The quality and thoughtfulness behind each product shows. Highly recommend for any parent.",
       author: "Thomas K.",
       role: "Father & Educator",
-      image: "/testimonial.jpg",
+      image: "https://placehold.co/128x128",
     },
     {
       quote: "Excellent customer service and product knowledge.",
       author: "Lisa B.",
       role: "Parent",
-      image: "/testimonial.jpg",
+      image: "https://placehold.co/128x128",
     },
   ];
 

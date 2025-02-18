@@ -76,7 +76,7 @@ export default function Footer() {
             <Link href="/" className="block mb-4">
               <div className="relative h-24 w-24">
                 <Image
-                  src="/logo.png"
+                  src="https://placehold.co/96x96"
                   alt="Panda Puzzle"
                   fill
                   className="bg-white object-contain"

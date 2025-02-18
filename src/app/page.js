@@ -99,7 +99,7 @@ function Hero() {
                     transition={{ duration: 0.2 }}
                   >
                     <Image
-                      src="/dummy-logo.webp"
+                      src="https://placehold.co/150x150"
                       alt={`Logo ${index}`}
                       width={150}
                       height={150}
@@ -125,7 +125,7 @@ function Hero() {
               transition={{ duration: 0.8 }}
             >
               <Image
-                src="/teddy_bears.webp"
+                src="https://placehold.co/600x800"
                 alt="Children with stuffed animals"
                 fill
                 className="object-cover scale-110 z-10 overflow-visible"
