@@ -1,0 +1,152 @@
+[
+  {
+    "category": "National & International Support Organizations",
+    "resources": [
+      {
+        "name": "Autism Speaks",
+        "description": "Dedicated to promoting solutions, across the spectrum and throughout the life span, for the needs of individuals with autism and their families.",
+        "link": "https://www.autismspeaks.org/"
+      },
+      {
+        "name": "The Autism Research Institute (ARI)",
+        "description": "Focuses on researching the causes of autism and developing safe and effective treatments.",
+        "link": "https://www.autism.org/"
+      },
+      {
+        "name": "National Autistic Society (UK)",
+        "description": "The UK's leading charity for people on the autism spectrum and their families. Provides support, guidance, and campaigns for improved rights and services.",
+        "link": "https://www.autism.org.uk/"
+      },
+      {
+        "name": "CHADD (Children and Adults with Attention-Deficit/Hyperactivity Disorder)",
+        "description": "Provides education, advocacy, and support for individuals with ADHD.",
+        "link": "https://chadd.org/"
+      },
+      {
+        "name": "Understood.org",
+        "description": "Resources for learning and thinking differences, including ADHD, dyslexia, and dyscalculia.",
+        "link": "https://www.understood.org/"
+      }
+    ]
+  },
+  {
+    "category": "Therapeutic Approaches & Information",
+    "resources": [
+      {
+        "name": "Occupational Therapy (OT)",
+        "description": "Helps individuals develop or regain skills needed for daily living and working, often focusing on sensory integration, fine motor skills, and self-care.",
+        "link": "#"
+      },
+      {
+        "name": "Speech and Language Therapy (SLT)",
+        "description": "Assists with communication challenges, including understanding and using language, social communication, and feeding/swallowing difficulties.",
+        "link": "#"
+      },
+      {
+        "name": "Applied Behavior Analysis (ABA)",
+        "description": "A therapy based on the science of learning and behavior, often used to increase helpful behaviors and decrease harmful or learning-interfering behaviors.",
+        "link": "#"
+      },
+      {
+        "name": "DIR/Floortime",
+        "description": "A developmental relationship-based approach focusing on emotional development, communication, and interaction through play.",
+        "link": "https://www.icdl.com/dir"
+      },
+      {
+        "name": "Sensory Integration Therapy",
+        "description": "Helps children process sensory information more effectively through structured exposure to sensory input.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "category": "Mental Health Resources",
+    "resources": [
+      {
+        "name": "Child Mind Institute",
+        "description": "Independent nonprofit dedicated to transforming the lives of children and families struggling with mental health and learning disorders.",
+        "link": "https://childmind.org/"
+      },
+      {
+        "name": "National Alliance on Mental Illness (NAMI)",
+        "description": "Provides advocacy, education, support, and public awareness so that all individuals and families affected by mental illness can build better lives.",
+        "link": "https://www.nami.org/"
+      },
+      {
+        "name": "Parent Coaching & Support Groups",
+        "description": "Connecting with other parents facing similar challenges can provide invaluable emotional support and practical advice. Look for local or online groups.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "category": "Financial Assistance & Funding",
+    "resources": [
+      {
+        "name": "Government Disability Benefits (Country Specific)",
+        "description": "Research national and local government programs offering financial support for individuals with disabilities and their families (e.g., SSI in the US, DLA/PIP in the UK).",
+        "link": "#"
+      },
+      {
+        "name": "Insurance Navigation",
+        "description": "Understanding and utilizing health insurance benefits for therapies and support services.",
+        "link": "#"
+      },
+      {
+        "name": "Grant Programs",
+        "description": "Various non-profit organizations offer grants for specific needs like therapy, equipment, or respite care.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "category": "Recommended Books, Websites & Apps",
+    "resources": [
+      {
+        "name": "Book: 'NeuroTribes: The Legacy of Autism and the Future of Neurodiversity' by Steve Silberman",
+        "description": "A comprehensive look at the history and understanding of autism.",
+        "link": "#"
+      },
+      {
+        "name": "Book: 'Uniquely Human: A Different Way of Seeing Autism' by Barry M. Prizant",
+        "description": "Offers a compassionate perspective on understanding autism.",
+        "link": "#"
+      },
+      {
+        "name": "Website: Thinking Person's Guide to Autism",
+        "description": "A source of evidence-based information from autistic people, parents, and professionals.",
+        "link": "https://thinkingpersonsguidetoautism.com/"
+      },
+      {
+        "name": "App: Proloquo2Go (AAC)",
+        "description": "A symbol-based Augmentative and Alternative Communication (AAC) app for those who have difficulty speaking.",
+        "link": "https://www.assistiveware.com/products/proloquo2go"
+      },
+      {
+        "name": "App: Calm or Headspace",
+        "description": "Mindfulness and meditation apps that can be helpful for managing stress and anxiety for both parents and children.",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "category": "Parent Training & Workshops",
+    "resources": [
+      {
+        "name": "Local Parent Support Groups",
+        "description": "Often host workshops and training sessions on various topics related to neurodiversity and parenting.",
+        "link": "#"
+      },
+      {
+        "name": "Online Courses & Webinars",
+        "description": "Many organizations offer online training covering specific strategies, therapies, or advocacy skills.",
+        "link": "#"
+      },
+      {
+        "name": "Therapist-Led Training",
+        "description": "Some therapy providers offer parent training programs as part of their services.",
+        "link": "#"
+      }
+    ]
+  }
+]

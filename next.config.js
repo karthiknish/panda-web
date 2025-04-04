@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
-
 const nextConfig = {
+  reactStrictMode: true,
   trailingSlash: true,
   images: {
     remotePatterns: [
@@ -11,6 +11,6 @@ const nextConfig = {
     ],
     domains: ["placehold.co"],
   },
-};
+}
 
-export default nextConfig;
+module.exports = nextConfig

@@ -1,0 +1,123 @@
+[
+  {
+    "slug": "weighted-blanket",
+    "name": "Kids Classic Weighted Blanket",
+    "price": "£24.99",
+    "image": "/assets/product.png",
+    "rating": 4.8,
+    "description": "A comforting weighted blanket designed specifically for children, providing gentle pressure to promote calmness and better sleep. Made with soft, breathable fabric.",
+    "details": [
+      "Dimensions: 90cm x 120cm",
+      "Weight: 2.3kg",
+      "Material: 100% Cotton outer, non-toxic glass bead filling",
+      "Care: Machine washable cover"
+    ]
+  },
+  {
+    "slug": "light-level",
+    "name": "4-Light Level",
+    "price": "£99.99",
+    "image": "/assets/product.png",
+    "rating": 4.5,
+    "description": "An adjustable light source with four distinct brightness levels, perfect for creating different moods or accommodating varying light sensitivities. Ideal for sensory rooms or bedrooms.",
+    "details": [
+      "Adjustable brightness: 4 levels",
+      "Light type: LED",
+      "Power: Mains operated",
+      "Features: Remote control included"
+    ]
+  },
+  {
+    "slug": "mood-light-table",
+    "name": "Sensory Mood Light Table",
+    "price": "£279.99",
+    "image": "/assets/product.png",
+    "rating": 4.9,
+    "description": "Engage the senses with this captivating mood light table. It cycles through various colors or can be set to a specific hue, providing visual stimulation and a calming effect.",
+    "details": [
+      "Dimensions: 60cm x 60cm x 40cm",
+      "Material: Durable plastic",
+      "Features: Rechargeable, remote control, multiple color modes",
+      "Use: Suitable for sensory play and exploration"
+    ]
+  },
+  {
+    "slug": "irregular-shapes",
+    "name": "Jumbo Irregular Shapes",
+    "price": "£74.99",
+    "image": "/assets/product.png",
+    "rating": 4.7,
+    "description": "A set of large, uniquely shaped blocks designed to encourage creative building and spatial reasoning. Their irregular forms offer a different challenge compared to standard blocks.",
+    "details": [
+      "Set includes: 10 assorted shapes",
+      "Material: High-density foam",
+      "Size: Various large sizes",
+      "Features: Soft, safe, and easy to handle"
+    ]
+  },
+  {
+    "slug": "mirror-letter",
+    "name": "Rainbow Mirror Letter",
+    "price": "£9.99",
+    "image": "/assets/product.png",
+    "rating": 4.6,
+    "description": "A fun and engaging way to learn letters. This mirrored letter features a vibrant rainbow effect, capturing attention and making literacy activities more exciting.",
+    "details": [
+      "Material: Acrylic mirror",
+      "Size: Approx 15cm height",
+      "Features: Shatter-resistant, colorful reflective surface",
+      "Use: Educational tool for letter recognition"
+    ]
+  },
+  {
+    "slug": "light-foam",
+    "name": "Set of 5 Light Up Foam Batons",
+    "price": "£4.99",
+    "image": "/assets/product.png",
+    "rating": 4.4,
+    "description": "Add excitement to sensory play or parties with these soft, light-up foam batons. They cycle through different colors and are safe for gentle play.",
+    "details": [
+      "Set includes: 5 batons",
+      "Material: Soft foam",
+      "Features: Multi-color LED lights, battery operated (included)",
+      "Size: Approx 40cm length"
+    ]
+  },
+  {
+    "slug": "another-toy",
+    "name": "Another Sensory Toy",
+    "price": "£19.99",
+    "image": "/assets/product.png",
+    "rating": 4.2,
+    "description": "Placeholder description for another fantastic sensory toy designed to engage and stimulate.",
+    "details": ["Detail 1", "Detail 2", "Detail 3"]
+  },
+  {
+    "slug": "lap-pad",
+    "name": "Weighted Lap Pad",
+    "price": "£34.99",
+    "image": "/assets/product.png",
+    "rating": 4.7,
+    "description": "Provides calming deep pressure for the lap and upper legs, ideal for use during seated activities at home or school. Helps improve focus and reduce restlessness.",
+    "details": [
+      "Dimensions: 50cm x 30cm",
+      "Weight: 1.5kg",
+      "Material: Soft, durable fabric cover",
+      "Features: Portable, discreet"
+    ]
+  },
+  {
+    "slug": "chew-necklace",
+    "name": "Chewable Necklace",
+    "price": "£8.99",
+    "image": "/assets/product.png",
+    "rating": 4.3,
+    "description": "A safe and discreet oral motor tool for children who need to chew. Made from food-grade silicone, it helps satisfy chewing needs and can aid concentration.",
+    "details": [
+      "Material: 100% food-grade silicone",
+      "Safety: BPA-free, PVC-free, lead-free",
+      "Features: Breakaway clasp for safety",
+      "Design: Various shapes available (pendant style)"
+    ]
+  }
+]

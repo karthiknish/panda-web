@@ -8,8 +8,9 @@ export default function Footer() {
   const quickLinks = [
     { title: "About Us", href: "/about" },
     { title: "Contact", href: "/contact" },
-    { title: "FAQs", href: "/faqs" },
-    { title: "Privacy Policy", href: "/privacy" },
+    { title: "FAQs", href: "/faqs" }, // Keep FAQs placeholder for now
+    { title: "Privacy Policy", href: "/privacy-policy" }, // Corrected path
+    { title: "Terms & Conditions", href: "/terms-and-conditions" }, // Added Terms
   ];
 
   const shopLinks = [
@@ -66,9 +67,11 @@ export default function Footer() {
       ),
     },
   ];
+  const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-[#2B4157] text-white">
+    // Use tertiary theme color (dark blue) and light text
+    <footer className="bg-tertiary text-primary-foreground">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Brand Section */}
@@ -79,10 +82,11 @@ export default function Footer() {
                   src="/assets/logo.png"
                   alt="Panda Puzzle"
                   fill
-                  className="bg-white object-contain"
+                  className="bg-white w-64 object-contain rounded-md" // Added rounded-md
                 />
               </div>
             </Link>
+            {/* Use a lighter text color for description */}
             <p className="text-gray-300 text-sm">
               Supporting growth and embracing differences through carefully
               curated educational toys and resources.
@@ -91,13 +95,16 @@ export default function Footer() {
 
           {/* Quick Links */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">Quick Links</h3>
+            <h3 className="text-lg font-semibold mb-4 text-white">
+              Quick Links
+            </h3>
             <ul className="space-y-2">
               {quickLinks.map((link) => (
                 <li key={link.title}>
+                  {/* Use light text, hover primary (orange) */}
                   <Link
                     href={link.href}
-                    className="text-gray-300 hover:text-white transition-colors"
+                    className="text-primary-foreground hover:text-primary transition-colors"
                   >
                     {link.title}
                   </Link>
@@ -108,13 +115,14 @@ export default function Footer() {
 
           {/* Shop */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">Shop</h3>
+            <h3 className="text-lg font-semibold mb-4 text-white">Shop</h3>
             <ul className="space-y-2">
               {shopLinks.map((link) => (
                 <li key={link.title}>
+                  {/* Use light text, hover primary (orange) */}
                   <Link
                     href={link.href}
-                    className="text-gray-300 hover:text-white transition-colors"
+                    className="text-primary-foreground hover:text-primary transition-colors"
                   >
                     {link.title}
                   </Link>
@@ -125,13 +133,16 @@ export default function Footer() {
 
           {/* Contact Info */}
           <div>
-            <h3 className="text-lg font-semibold mb-4">Find Us Here</h3>
+            <h3 className="text-lg font-semibold mb-4 text-white">
+              Find Us Here
+            </h3>
             <ul className="space-y-2">
               {contactInfo.map((info) => (
                 <li key={info.label}>
+                  {/* Use light text, hover primary (orange) */}
                   <a
                     href={info.href}
-                    className="text-gray-300 hover:text-white transition-colors"
+                    className="text-primary-foreground hover:text-primary transition-colors"
                   >
                     {info.value}
                   </a>
@@ -143,10 +154,11 @@ export default function Footer() {
             <div className="mt-6">
               <div className="flex space-x-4">
                 {socialLinks.map((item) => (
+                  // Use light text, hover primary (orange)
                   <a
                     key={item.name}
                     href={item.href}
-                    className="text-gray-300 hover:text-white"
+                    className="text-primary-foreground hover:text-primary"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -160,9 +172,11 @@ export default function Footer() {
         </div>
 
         {/* Bottom Bar */}
-        <div className="mt-12 pt-8 border-t border-gray-700">
+        {/* Use a lighter border on dark background */}
+        <div className="mt-12 pt-8 border-t border-white/20">
+          {/* Use lighter muted text */}
           <p className="text-center text-gray-300 text-sm">
-            © {new Date().getFullYear()} Panda Puzzle. All rights reserved.
+            © {currentYear} Panda Puzzle. All rights reserved.
           </p>
         </div>
       </div>

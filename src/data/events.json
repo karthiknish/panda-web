@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "london-autism-show-2025",
+    "title": "The Autism Show London",
+    "date": "June 14-15, 2025",
+    "location": "ExCeL London",
+    "description": "The national event for autism, offering information, advice, products, and services for individuals, families, and professionals.",
+    "link": "https://london.autismshow.co.uk/"
+  },
+  {
+    "slug": "manchester-neurodiversity-meetup-may",
+    "title": "Manchester Neurodiversity Parent Meetup",
+    "date": "May 10, 2025",
+    "location": "Community Centre, Manchester",
+    "description": "An informal gathering for parents and carers of neurodivergent children to share experiences and support each other.",
+    "link": "#"
+  },
+  {
+    "slug": "birmingham-sensory-play-workshop",
+    "title": "Sensory Play Workshop for Families",
+    "date": "July 5, 2025",
+    "location": "Family Hub, Birmingham",
+    "description": "Hands-on workshop exploring sensory play ideas and benefits for children with sensory processing differences.",
+    "link": "#"
+  },
+  {
+    "slug": "edinburgh-adhd-awareness-talk",
+    "title": "ADHD Awareness Evening Talk",
+    "date": "September 20, 2025",
+    "location": "University of Edinburgh",
+    "description": "An informative talk by leading specialists on understanding and supporting individuals with ADHD.",
+    "link": "#"
+  },
+  {
+    "slug": "bristol-inclusive-coding-club",
+    "title": "Inclusive Coding Club Taster Session",
+    "date": "October 12, 2025",
+    "location": "Tech Hub, Bristol",
+    "description": "A taster session for a coding club designed for neurodivergent young people interested in technology.",
+    "link": "#"
+  },
+  {
+    "slug": "online-webinar-visual-supports",
+    "title": "Online Webinar: Using Visual Supports Effectively",
+    "date": "June 5, 2025",
+    "location": "Online",
+    "description": "Learn practical tips for creating and implementing visual supports to aid communication and routine.",
+    "link": "#"
+  }
+]
