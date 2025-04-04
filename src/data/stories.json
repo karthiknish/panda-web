@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "finding-our-rhythm",
+    "title": "Finding Our Rhythm: A Parent's Journey with a Non-Speaking Child",
+    "author": "Sarah K.",
+    "date": "May 20, 2025",
+    "excerpt": "Navigating the world when your child communicates differently can be challenging, but discovering AAC opened up a whole new world for us...",
+    "image": "/assets/family.jpg"
+  },
+  {
+    "slug": "school-advocacy-success",
+    "title": "Our EHCP Success Story: Persistence Pays Off",
+    "author": "David L.",
+    "date": "June 02, 2025",
+    "excerpt": "The process was long and stressful, but securing the right support in my daughter's EHCP made a huge difference in her school experience.",
+    "image": "/assets/kid.png"
+  },
+  {
+    "slug": "embracing-stimming",
+    "title": "Learning to Embrace Stimming as Self-Regulation",
+    "author": "Aisha M.",
+    "date": "June 18, 2025",
+    "excerpt": "I used to worry about my son's hand-flapping, but understanding it as a vital self-regulation tool changed my perspective completely.",
+    "image": "/assets/feature-holding.jpg"
+  },
+  {
+    "slug": "the-joy-of-special-interests",
+    "title": "Dinosaurs, Trains, and Deep Dives: The Joy of Special Interests",
+    "author": "Mark T. (Autistic Adult)",
+    "date": "July 01, 2025",
+    "excerpt": "My special interests have always been a source of comfort, knowledge, and connection. Here's why we should nurture them in autistic children.",
+    "image": "/assets/teddy_bears.webp"
+  }
+]

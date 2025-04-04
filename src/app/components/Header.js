@@ -111,7 +111,23 @@ const navItems = [
       },
     ],
   },
-  { title: "Support & Resources", href: "/support-and-resources" },
+  {
+    title: "Support & Resources",
+    href: "/support-and-resources",
+    subItems: [
+      {
+        title: "Resource Hub",
+        href: "/support-and-resources",
+        description: "Find organizations, tools, and information.",
+      },
+      {
+        title: "Health & Wellbeing",
+        href: "/support-and-resources/health-wellbeing",
+        description: "Focusing on physical and mental health.",
+      },
+      // Add more sub-items here as needed
+    ],
+  },
   { title: "Education & Legal", href: "/education-and-legal" },
   {
     title: "Community & Blog",
@@ -131,6 +147,11 @@ const navItems = [
         title: "News & Advocacy",
         href: "/community-and-blog/news-advocacy",
         description: "Latest news and advocacy efforts.",
+      },
+      {
+        title: "Personal Stories",
+        href: "/community-and-blog/personal-stories",
+        description: "Read experiences from the community.",
       },
     ],
   },
