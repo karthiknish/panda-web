@@ -1,6 +1,8 @@
 "use client";
 import { motion } from "framer-motion";
 import Image from "next/image"; // Import Image component in case we add images later
+import Link from "next/link";
+import { Button } from "@/components/ui/button";
 
 export default function NeurodiversityPage() {
   return (
